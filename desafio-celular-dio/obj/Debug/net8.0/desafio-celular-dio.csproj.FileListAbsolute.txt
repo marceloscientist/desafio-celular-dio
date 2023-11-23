@@ -1,0 +1,14 @@
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\bin\Debug\net8.0\desafio-celular-dio.exe
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\bin\Debug\net8.0\desafio-celular-dio.deps.json
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\bin\Debug\net8.0\desafio-celular-dio.runtimeconfig.json
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\bin\Debug\net8.0\desafio-celular-dio.dll
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\bin\Debug\net8.0\desafio-celular-dio.pdb
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\obj\Debug\net8.0\desafio-celular-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\obj\Debug\net8.0\desafio-celular-dio.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\obj\Debug\net8.0\desafio-celular-dio.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\obj\Debug\net8.0\desafio-celular-dio.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\obj\Debug\net8.0\desafio-celular-dio.dll
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\obj\Debug\net8.0\refint\desafio-celular-dio.dll
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\obj\Debug\net8.0\desafio-celular-dio.pdb
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\obj\Debug\net8.0\desafio-celular-dio.genruntimeconfig.cache
+C:\Users\Marcelo\Documents\Learning\DIO\desafio-celular-dio\desafio-celular-dio\obj\Debug\net8.0\ref\desafio-celular-dio.dll
